@@ -1,0 +1,31 @@
+Goals
+•	What are the goals of the team?
+  o	Our goal is to come up with usable code to segment and track HeLa cells to integrate in Fu Group (we are all in Fu Group).
+  
+Meeting Norms
+•	When will team meetings be held? What platform will you use for team meetings?
+  o Usually meet at 10pm Tuesdays. If needed, we will meet on weekends or whenever we all are available. Meetings/communications will be done through discord.
+•	How often will the team meet? How long do you anticipate those meeting will be?
+  o	Meeting will be around 60~90minute long
+•	Who will take meeting minutes? How will meeting minutes be distributed to team members?
+  o	Minutes will be distributed evenly. Thomas will track meeting minutes.
+Work Norms
+•	How much time per week do you anticipate it will take to make the project successful? (personal question)
+•	How will work be divided among team members? Will there be specialized roles within the team that take on specific aspects of the project?
+  o	There will be no divide & conquer to maximize learning experience. Individuals will work on their own code, and during group meeting, we will discuss each own's code to determine what code works the best.
+•	Will a specific program be used for managing tasks (e.g. Monday.com, Asana, TeamGantt) or scheduling (e.g. Google Calendar)?
+  o	No. Discord is fairly easy-to-use and everyone in our group has it. It is very easy to communicate through discord, so no outside program is needed.
+•	What will happen if someone doesn't follow through with a commitment?
+  o	We will make the person share his screen and work while other members are watching.
+•	How will work be reviewed?
+  o	through github and through discord meetings.
+•	What happens if people have different opinions on the quality of work?
+  o	We will discuss accordingly. If necessary, we will ask the professor & TAs.
+•	What will you do if one or more team members are not doing their share of the work?
+  o As stated above, they will have to share their screen and show they are working.
+•	How will you deal with different work habits of individual team members? (e.g. some people like to get tasks done as early as possible, while others like to work under the pressure of a deadline)
+Decision Making
+  o As long as everyone has some progress to contribute during the meeting, we do not touch on how others work. We are not to focused on how individuals achieve their end state, as long as the end state is met.
+•	How will decisions be made about project direction? Do you need consensus before making a decision?
+  o We will generally follow democracy, but if one person strongly feels about their way, we will consult with our senior group members or professor & TAs.
+
