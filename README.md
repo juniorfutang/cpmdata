@@ -1,2 +1,1 @@
-# cpmdata
-# hi y'all beautiful
+Currently there exist no perfectly established method for measuring cell growth. Cell growth plays an important factor in many biological processes, such as cancer where cells proliferate and do not undergo apoptosis. Quantitative phase microscopy (QPM) is the leading method. QPM qunatifies the phase shift that occurs when light passes through objects vaying in densitiy. Our group would like to supplement QPM images with stimulated Raman spectroscopy (SRS) microscopy images. SRS uses the intrinsic vibrational modes to not only generate identifiable spectra but also does not have any nonresonant background signal. In our project we wish to develop code to accurately segment and track cells from QPM and eventually SRS data.
