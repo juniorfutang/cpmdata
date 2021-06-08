@@ -19,5 +19,5 @@
   5. Demo test video is uploaded on the main branch as bgremovedphase.avi
 
 ## RESULT FROM RUNNING NORFAIR WITH THE VIDEO FILE AND THE WEIGHT FILE PROVIDED
-![alt text](https://github.com/juniorfutang/qpm_data/blob/main/bgremovedphase_out.mp4?raw=true)
+(https://github.com/juniorfutang/qpm_data/blob/main/bgremovedphase_out.mp4?raw=true)
 
