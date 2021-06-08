@@ -17,3 +17,7 @@
   4. Bonus: Use additional arguments --detector_path, --img_size, --iou_thres,--conf_thres, --classes, --track_points as you wish
      - for details, go to `https://github.com/tryolabs/norfair`
   5. Demo test video is uploaded on the main branch as bgremovedphase.avi
+
+## RESULT FROM RUNNING NORFAIR WITH THE VIDEO FILE AND THE WEIGHT FILE PROVIDED
+https://user-images.githubusercontent.com/82493273/121123205-ac724c80-c7d7-11eb-8d00-d17c86280bb9.mp4
+
